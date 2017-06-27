@@ -1,0 +1,15 @@
+#nameTitle {
+	text-decoration: underline;
+	margin-bottom: 1px;
+	}
+	.h3Header {
+		/*float: left;*/
+		display: inline;
+	}
+	.smallMargin {
+		margin: 0px;
+	}
+	.inline {
+		display: inline;
+		/*float: left;*/
+	}
